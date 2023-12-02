@@ -1,0 +1,19 @@
+Dia	Atividades							
+								
+10/10	Pesquisa sobre o tema.							
+11/10	Conclusão da pesquisa, início do codigo, cabeçalho, corpo e textos criados. Início do código css, adição de cores de fundo.							
+15/10	Finalização do trabalho: Adição do alinhamento de texto no css, assim como margens. Início e conclusão página de cadastro do site: criação do formulário e alinhamento de texto.							
+	Correção de erros de código através dos verificadores, postagem do código na página do github e finalização do relatório.							
+30/11 Mudanças no formulário, adição de um campo para confirmar a senha e um campo para adicionar um telefone.
+01/12 Início do código javascript:
+* Criação da função store para armazenar os dados;
+* Criação dos verificadores dos dados;
+* Testes e correções;
+* Criação da função Limpar, assim como seu botão;
+* Elaboração da função Excluir;
+* Testes e correções;
+* Elaboração da função exibirDados;
+* Testes e correções;
+* Revisão do código;
+				
+Objetivo do projeto: criar um site em formato de blog sobre energia limpa no brasil, com cadastro para que os usuários possam receber notificações sobre novas tecnologias e informações sobre energia limpa.								
